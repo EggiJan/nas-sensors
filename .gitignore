@@ -1,0 +1,15 @@
+### General ###
+node_modules
+.env
+.env.production
+
+### Backend ###
+backend/secrets.json
+backend/public_key
+
+### Frontend ###
+client/dist
+
+### Serverless ###
+# Ignore build directory
+.serverless
