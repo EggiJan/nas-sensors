@@ -3,7 +3,7 @@ WebApp based on AWS Lambda, React and Auth0 to report and graph my home server's
 
 ## Backend
 * Provides two endpoints to read and write data
-* Data gets stored in DynamoDB
+* Data is stored in DynamoDB
 * Authentication is handled by Auth0 and a custom authorizer function
 
 ### GET /store
