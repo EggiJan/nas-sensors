@@ -13,7 +13,6 @@ Allowed parameters:
 
 |Parameter|Description|
 |-----|----|
-|from| **required** - Must match the secret of the backend|
 |cpu_temp|_optional_ Float|
 |sys_temp|_optional_ Float|
 |temp1_temp|_optional_ Float|
