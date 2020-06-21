@@ -1,5 +1,7 @@
 # NAS Sensors
-WebApp based on AWS Lambda, React and Auth0 to report and graph my home server's temperatures and fan speeds.
+WebApp to report and graph my home server's temperatures and fan speeds.
+
+Made with AWS Lambda, React, [recharts](https://recharts.org) and [Auth0](http://auth0.com/). 
 
 ## Backend
 * Provides two endpoints to read and write data
